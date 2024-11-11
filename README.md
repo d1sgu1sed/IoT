@@ -6,3 +6,4 @@ This repositoriy created for IoT homework
 + [LedPhotoDistributedSerial](https://github.com/d1sgu1sed/IoT/tree/main/led_photo_distributed_serial)
 + [MQTT aud](https://github.com/d1sgu1sed/IoT/tree/main/mqtt_aud)
 + [MQTT homework](https://github.com/d1sgu1sed/IoT/tree/main/mqtt_hw)
++ [LED Matrix](https://github.com/d1sgu1sed/IoT/tree/main/led_matrix)
