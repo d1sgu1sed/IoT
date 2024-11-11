@@ -3,3 +3,5 @@
 ссылка на демонстрацию работы:
 
 https://drive.google.com/file/d/1laJKBOXu-Ptr0yPrvH3jEWvxXInnjrLF/view?usp=drivesdk
+
+![image](demo.jpg)

@@ -3,3 +3,5 @@
 ссылка на демонстрацию работы:
 
 https://drive.google.com/file/d/13dpyS4Hyk3hqXwcbz7xc0Ga0SZQ-24rr/view?usp=drive_link
+
+![image](demo.png)

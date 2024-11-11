@@ -6,3 +6,5 @@
 
 https://drive.google.com/file/d/1CDftJ0ZsoR75Y5SM48Rp0nBRwKuNdy7L/view?usp=sharing
 https://drive.google.com/file/d/1vRcAvcpa5JtazXB1LqveZUEN0XHl81CJ/view?usp=drive_link
+
+![image](schema.png)
