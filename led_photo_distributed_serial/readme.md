@@ -4,4 +4,4 @@
 
 https://drive.google.com/file/d/1pWfcJ25hFYx4lPsMYX7FXjhQaGelCm4-/view?usp=drivesdk
 
-![image](schema.jpg)
+![image](scheme.jpg)
