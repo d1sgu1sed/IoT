@@ -7,3 +7,5 @@ This repositoriy created for IoT homework
 + [MQTT aud](https://github.com/d1sgu1sed/IoT/tree/main/mqtt_aud)
 + [MQTT homework](https://github.com/d1sgu1sed/IoT/tree/main/mqtt_hw)
 + [LED Matrix](https://github.com/d1sgu1sed/IoT/tree/main/led_matrix)
++ [Extended LED Matrix](./extended_led_matrix)
++ [Extended LED Matrix registers](./extended_led_matrix_with_ports)
