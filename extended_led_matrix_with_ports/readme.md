@@ -2,3 +2,5 @@
 
 Ссылка на демонстрацию работы -
 https://drive.google.com/file/d/1yOwVmAU8zbNjjFNHRdgnIxTrt6AAsQAR/view?usp=drivesdk
+
+![image](./scheme.jpg)
