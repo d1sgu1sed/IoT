@@ -10,3 +10,6 @@ This repositoriy created for IoT homework
 + [LED Matrix](https://github.com/d1sgu1sed/IoT/tree/main/led_matrix)
 + [Extended LED Matrix](./extended_led_matrix)
 + [Extended LED Matrix registers](./extended_led_matrix_with_ports)
++ [shift_registers](./shift_registers)
++ [ESPLamp](./ESPLamp)
++ [morse_shield](./morse_shield)
