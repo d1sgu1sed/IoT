@@ -1,6 +1,7 @@
 # IoT
 This repositoriy created for IoT homework
 
+## first half:
 + [Traffic Lights](https://github.com/d1sgu1sed/IoT/tree/main/traffic_lights)
 + [Light source detector](https://github.com/d1sgu1sed/IoT/tree/main/photo_sensor)
 + [LedPhotoDistributedSerial](https://github.com/d1sgu1sed/IoT/tree/main/led_photo_distributed_serial)
@@ -13,3 +14,6 @@ This repositoriy created for IoT homework
 + [shift_registers](./shift_registers)
 + [ESPLamp](./ESPLamp)
 + [morse_shield](./morse_shield)
+
+## second half:
++ [bounce_processing](./bounce_processing)
