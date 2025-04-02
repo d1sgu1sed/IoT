@@ -20,3 +20,4 @@ This repositoriy created for IoT homework
 + [Range Calibration](./RangeCalibration)
 + [Button Matrix](./ButtonMatrix)
 + [H-bridge](./H-bridge)
++ [Accelerometer](./accelerometer_test/)
